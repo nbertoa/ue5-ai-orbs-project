@@ -1,0 +1,61 @@
+# ============================================================
+# Unreal Engine 5 — .gitignore
+# Keeps: *.uproject | Source/ | Config/
+# Excludes everything else (binaries, intermediate, saved, content)
+# ============================================================
+
+# --- Binaries & intermediate build output ---
+Binaries/
+Intermediate/
+Build/
+DerivedDataCache/
+
+# --- Saved data (logs, screenshots, autosaves, crash reports) ---
+Saved/
+
+# --- Content folder (assets are large binary files) ---
+Content/
+
+# --- Plugins (restore via Epic Launcher or Fab) ---
+Plugins/
+
+# --- IDE & editor metadata ---
+.vs/
+.vscode/
+.idea/
+*.suo
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# --- Visual Studio generated files ---
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# --- Rider generated files ---
+.idea/
+*.DotSettings.user
+
+# --- Xcode ---
+*.xcworkspace
+*.xcodeproj
+
+# --- OS metadata ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Unreal Engine crash dumps ---
+*.dmp
+*.tmp
+
+# --- Unreal pak / cooked data ---
+*.pak
+*.ucas
+*.utoc
+
+# --- Shader cache ---
+ShaderCache/
