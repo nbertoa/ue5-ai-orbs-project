@@ -2,7 +2,7 @@
 
 A first-person game prototype built in **Unreal Engine 5.6** with **C++ and Blueprints**, focused on AI systems: Behavior Trees, Blackboards, Tasks, Services, and Decorators.
 
-📝 [Blog post](https://nbertoa.wordpress.com/2025/09/10/unreal-5-6-ai-orbs-project/) · 🎮 [Video demo](https://www.youtube.com/watch?v=YdxnxSYz0ss)
+📝 [Blog post](https://nbertoa.com/2025/09/10/unreal-5-6-ai-orbs-project/) · 🎮 [Video demo](https://www.youtube.com/watch?v=3q91a5907kY)
 
 ---
 
